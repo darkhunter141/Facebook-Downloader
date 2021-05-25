@@ -17,18 +17,18 @@
  pkg install python
 ```
 ```
- git clone https://github.com/darkhunter141/
+ git clone https://github.com/darkhunter141/Facebook-Downloader
 ```
 ```
- cd 
+ cd Facebook-Downloader
 ```
 ```
- python 
+ python fb.py
 ```
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python && git clone 
+pkg install python && git clone https://github.com/darkhunter141/Facebook-Downloader && cd Facebook-Downloader && python fb.py
 ```
 <br>
 <h3><b>📸Screenshot</b></h3>
